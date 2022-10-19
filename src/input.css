@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.section1{
+background-color:rgb(193, 194, 201); 
+text-align: center;}
+.div1{
+    border-radius: 50px 50px 50px 50px;
+border: 1px solid black;
+width: 80%;
+padding-left: 60px 0px;
+text-align: center;
+}
+.div{
+/* border: 1px solid rgb(194, 42, 42); */
+border-radius: 50px 50px 50px 50px;
+ 
+}
+ 
